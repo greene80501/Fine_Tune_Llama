@@ -1,0 +1,142 @@
+{"input": "Set a reminder to return library books at 3 PM tomorrow", "output": "action:set_reminder;title:return library books;date:tomorrow;time:3PM"}
+{"input": "Book a dentist appointment for next Tuesday at 2 PM", "output": "action:add_event;title:dentist appointment;date:next Tuesday;time:2PM"}
+{"input": "Plan a camping trip for next weekend at 9 AM", "output": "action:add_event;title:camping trip;date:next weekend;time:9AM"}
+{"input": "Schedule a conference for June 1st at 10 AM", "output": "action:add_event;title:conference;date:June 1st;time:10AM"}
+{"input": "Add a meeting with a client on March 30th at 4 PM", "output": "action:add_event;title:meeting with client;date:March 30th;time:4PM"}
+{"input": "Set a reminder to check emails at 8 AM tomorrow", "output": "action:set_reminder;title:check emails;date:tomorrow;time:8AM"}
+{"input": "Book a flight for next Thursday at 6 AM", "output": "action:add_event;title:book flight;date:next Thursday;time:6AM"}
+{"input": "Schedule a meeting with the boss for Friday at 10 AM", "output": "action:add_event;title:meeting with boss;date:Friday;time:10AM"}
+{"input": "Set a reminder to order groceries at 7 AM tomorrow", "output": "action:set_reminder;title:order groceries;date:tomorrow;time:7AM"}
+{"input": "Plan a weekend trip for October 3rd at 8 AM", "output": "action:add_event;title:weekend trip;date:October 3rd;time:8AM"}
+{"input": "Add a birthday celebration for James on June 17th at 6 PM", "output": "action:add_event;title:birthday celebration for James;date:June 17th;time:6PM"}
+{"input": "Set a reminder to check tire pressure at 10 AM tomorrow", "output": "action:set_reminder;title:check tire pressure;date:tomorrow;time:10AM"}
+{"input": "Schedule a check-up for the dog on January 15th at 11 AM", "output": "action:add_event;title:dog check-up;date:January 15th;time:11AM"}
+{"input": "Add a dentist appointment for next Wednesday at 2 PM", "output": "action:add_event;title:dentist appointment;date:next Wednesday;time:2PM"}
+{"input": "Set a reminder to write a report at 3 PM today", "output": "action:set_reminder;title:write report;date:today;time:3PM"}
+{"input": "Book a restaurant reservation for next Tuesday at 7 PM", "output": "action:add_event;title:restaurant reservation;date:next Tuesday;time:7PM"}
+{"input": "Plan a date night for next Friday at 8 PM", "output": "action:add_event;title:date night;date:next Friday;time:8PM"}
+{"input": "Schedule a parent-teacher meeting for next Monday at 5 PM", "output": "action:add_event;title:parent-teacher meeting;date:next Monday;time:5PM"}
+{"input": "Set a reminder to call the electrician at 9 AM tomorrow", "output": "action:set_reminder;title:call electrician;date:tomorrow;time:9AM"}
+{"input": "Add a workshop for learning Python on January 23rd at 1 PM", "output": "action:add_event;title:Python workshop;date:January 23rd;time:1PM"}
+{"input": "Book a yoga retreat for August 5th at 10 AM", "output": "action:add_event;title:yoga retreat;date:August 5th;time:10AM"}
+{"input": "Set a reminder to buy concert tickets at 2 PM tomorrow", "output": "action:set_reminder;title:buy concert tickets;date:tomorrow;time:2PM"}
+{"input": "Plan a trip to the beach on April 20th at 8 AM", "output": "action:add_event;title:beach trip;date:April 20th;time:8AM"}
+{"input": "Schedule a job interview on May 4th at 10 AM", "output": "action:add_event;title:job interview;date:May 4th;time:10AM"}
+{"input": "Set a reminder to take vitamins at 8 AM tomorrow", "output": "action:set_reminder;title:take vitamins;date:tomorrow;time:8AM"}
+{"input": "Plan a surprise gift for Lisa on her birthday on December 1st at 5 PM", "output": "action:add_event;title:surprise gift for Lisa;date:December 1st;time:5PM"}
+{"input": "Add a team outing for next Wednesday at 3 PM", "output": "action:add_event;title:team outing;date:next Wednesday;time:3PM"}
+{"input": "Set a reminder to clean the car at 4 PM tomorrow", "output": "action:set_reminder;title:clean the car;date:tomorrow;time:4PM"}
+{"input": "Book a cooking class for next Tuesday at 7 PM", "output": "action:add_event;title:cooking class;date:next Tuesday;time:7PM"}
+{"input": "Schedule a game night for this Sunday at 8 PM", "output": "action:add_event;title:game night;date:this Sunday;time:8PM"}
+{"input": "Set a reminder to take out the trash at 9 PM today", "output": "action:set_reminder;title:take out the trash;date:today;time:9PM"}
+{"input": "Plan a picnic for July 2nd at 1 PM", "output": "action:add_event;title:picnic;date:July 2nd;time:1PM"}
+{"input": "Set a reminder to submit project report at 5 PM today", "output": "action:set_reminder;title:submit project report;date:today;time:5PM"}
+{"input": "Book a pet grooming appointment for next Saturday at 10 AM", "output": "action:add_event;title:pet grooming appointment;date:next Saturday;time:10AM"}
+{"input": "Plan a cooking party on March 18th at 5 PM", "output": "action:add_event;title:cooking party;date:March 18th;time:5PM"}
+{"input": "Schedule a lecture on physics for December 12th at 2 PM", "output": "action:add_event;title:physics lecture;date:December 12th;time:2PM"}
+{"input": "Set a reminder to return emails at 6 PM today", "output": "action:set_reminder;title:return emails;date:today;time:6PM"}
+{"input": "Add a hair coloring appointment for next Friday at 1 PM", "output": "action:add_event;title:hair coloring appointment;date:next Friday;time:1PM"}
+{"input": "Schedule a vacation for May 20th at 9 AM", "output": "action:add_event;title:vacation;date:May 20th;time:9AM"}
+{"input": "Set a reminder to download updates at 11 AM tomorrow", "output": "action:set_reminder;title:download updates;date:tomorrow;time:11AM"}
+{"input": "Plan a trip to the zoo on April 18th at 3 PM", "output": "action:add_event;title:trip to the zoo;date:April 18th;time:3PM"}
+{"input": "Book a photography session on May 30th at 4 PM", "output": "action:add_event;title:photography session;date:May 30th;time:4PM"}
+{"input": "Add a music concert for September 5th at 8 PM", "output": "action:add_event;title:music concert;date:September 5th;time:8PM"}
+{"input": "Set a reminder to submit job application at 10 AM tomorrow", "output": "action:set_reminder;title:submit job application;date:tomorrow;time:10AM"}
+{"input": "Schedule a dentist appointment on August 13th at 11 AM", "output": "action:add_event;title:dentist appointment;date:August 13th;time:11AM"}
+{"input": "Plan a weekend road trip on April 7th at 6 AM", "output": "action:add_event;title:weekend road trip;date:April 7th;time:6AM"}
+{"input": "Set a reminder to send the newsletter at 1 PM today", "output": "action:set_reminder;title:send newsletter;date:today;time:1PM"}
+{"input": "Book a dinner reservation for next Saturday at 7 PM", "output": "action:add_event;title:dinner reservation;date:next Saturday;time:7PM"}
+{"input": "Schedule a visit to a museum on January 22nd at 2 PM", "output": "action:add_event;title:museum visit;date:January 22nd;time:2PM"}
+{"input": "Add a doctor's visit for May 25th at 9 AM", "output": "action:add_event;title:doctor's visit;date:May 25th;time:9AM"}
+{"input": "Set a reminder to make a call at 4 PM today", "output": "action:set_reminder;title:make a call;date:today;time:4PM"}
+{"input": "Plan a potluck for November 19th at 6 PM", "output": "action:add_event;title:potluck;date:November 19th;time:6PM"}
+{"input": "Schedule a doctor's appointment on April 10th at 10 AM", "output": "action:add_event;title:doctor's appointment;date:April 10th;time:10AM"}
+{"input": "Set a reminder to book a flight for July 8th at 9 AM", "output": "action:set_reminder;title:book flight;date:July 8th;time:9AM"}
+{"input": "Plan a road trip for June 22nd at 8 AM", "output": "action:add_event;title:road trip;date:June 22nd;time:8AM"}
+{"input": "Add a dentist cleaning appointment on February 5th at 2 PM", "output": "action:add_event;title:dentist cleaning appointment;date:February 5th;time:2PM"}
+{"input": "Set a reminder to watch the game at 6 PM tomorrow", "output": "action:set_reminder;title:watch game;date:tomorrow;time:6PM"}
+{"input": "Book a stay at a resort for September 10th at 4 PM", "output": "action:add_event;title:resort stay;date:September 10th;time:4PM"}
+{"input": "Schedule a movie screening on December 20th at 8 PM", "output": "action:add_event;title:movie screening;date:December 20th;time:8PM"}
+{"input": "Book a flight for next Wednesday at 2 PM", "output": "action:add_event;title:book flight;date:next Wednesday;time:2PM"}
+{"input": "Schedule a team meeting for tomorrow at 9 AM", "output": "action:add_event;title:team meeting;date:tomorrow;time:9AM"}
+{"input": "Set a reminder to pick up groceries at 5 PM today", "output": "action:set_reminder;title:pick up groceries;date:today;time:5PM"}
+{"input": "Plan a dinner with friends next Saturday at 8 PM", "output": "action:add_event;title:dinner with friends;date:next Saturday;time:8PM"}
+{"input": "Schedule a yoga class for next Tuesday at 6 AM", "output": "action:add_event;title:yoga class;date:next Tuesday;time:6AM"}
+{"input": "Add a project deadline for April 15th at 12 PM", "output": "action:add_event;title:project deadline;date:April 15th;time:12PM"}
+{"input": "Set a reminder to water plants at 9 AM tomorrow", "output": "action:set_reminder;title:water plants;date:tomorrow;time:9AM"}
+{"input": "Plan a movie night this Friday at 7 PM", "output": "action:add_event;title:movie night;date:this Friday;time:7PM"}
+{"input": "Add a doctor appointment on March 22nd at 11 AM", "output": "action:add_event;title:doctor appointment;date:March 22nd;time:11AM"}
+{"input": "Set a reminder to submit homework at 10 PM today", "output": "action:set_reminder;title:submit homework;date:today;time:10PM"}
+{"input": "Book a spa day for next Thursday at 3 PM", "output": "action:add_event;title:spa day;date:next Thursday;time:3PM"}
+{"input": "Plan a coffee date with Sarah next Monday at 4 PM", "output": "action:add_event;title:coffee date with Sarah;date:next Monday;time:4PM"}
+{"input": "Set a reminder to renew car insurance at 1 PM tomorrow", "output": "action:set_reminder;title:renew car insurance;date:tomorrow;time:1PM"}
+{"input": "Schedule a conference call next Friday at 2 PM", "output": "action:add_event;title:conference call;date:next Friday;time:2PM"}
+{"input": "Add a haircut appointment for Saturday at 10 AM", "output": "action:add_event;title:haircut appointment;date:Saturday;time:10AM"}
+{"input": "Set a reminder to send email updates at 6 PM today", "output": "action:set_reminder;title:send email updates;date:today;time:6PM"}
+{"input": "Book a lunch meeting next Wednesday at 1 PM", "output": "action:add_event;title:lunch meeting;date:next Wednesday;time:1PM"}
+{"input": "Plan a family picnic next Sunday at 12 PM", "output": "action:add_event;title:family picnic;date:next Sunday;time:12PM"}
+{"input": "Set a reminder to pay rent at 10 AM next Monday", "output": "action:set_reminder;title:pay rent;date:next Monday;time:10AM"}
+{"input": "Book a dinner reservation for next Friday at 7 PM", "output": "action:add_event;title:dinner reservation;date:next Friday;time:7PM"}
+{"input": "Plan a weekend getaway for May 15th at 8 AM", "output": "action:add_event;title:weekend getaway;date:May 15th;time:8AM"}
+{"input": "Set a reminder to check the weather at 7 AM tomorrow", "output": "action:set_reminder;title:check weather;date:tomorrow;time:7AM"}
+{"input": "Add a team meeting on January 17th at 2 PM", "output": "action:add_event;title:team meeting;date:January 17th;time:2PM"}
+{"input": "Plan a movie screening for next Tuesday at 4 PM", "output": "action:add_event;title:movie screening;date:next Tuesday;time:4PM"}
+{"input": "Book a dentist cleaning for June 10th at 10 AM", "output": "action:add_event;title:dentist cleaning;date:June 10th;time:10AM"}
+{"input": "Set a reminder to call mom at 8 PM today", "output": "action:set_reminder;title:call mom;date:today;time:8PM"}
+{"input": "Schedule a job interview on February 14th at 9 AM", "output": "action:add_event;title:job interview;date:February 14th;time:9AM"}
+{"input": "Plan a road trip to Denver on July 5th at 6 AM", "output": "action:add_event;title:road trip to Denver;date:July 5th;time:6AM"}
+{"input": "Set a reminder to check the fridge at 10 AM tomorrow", "output": "action:set_reminder;title:check fridge;date:tomorrow;time:10AM"}
+{"input": "Book a flight to New York for September 12th at 3 PM", "output": "action:add_event;title:flight to New York;date:September 12th;time:3PM"}
+{"input": "Schedule a podcast interview for April 25th at 2 PM", "output": "action:add_event;title:podcast interview;date:April 25th;time:2PM"}
+{"input": "Add a cooking class on December 5th at 11 AM", "output": "action:add_event;title:cooking class;date:December 5th;time:11AM"}
+{"input": "Set a reminder to review notes at 5 PM today", "output": "action:set_reminder;title:review notes;date:today;time:5PM"}
+{"input": "Plan a trip to the museum for November 21st at 9 AM", "output": "action:add_event;title:trip to the museum;date:November 21st;time:9AM"}
+{"input": "Book a dentist appointment for next Friday at 9 AM", "output": "action:add_event;title:dentist appointment;date:next Friday;time:9AM"}
+{"input": "Schedule a gym session for next Wednesday at 7 AM", "output": "action:add_event;title:gym session;date:next Wednesday;time:7AM"}
+{"input": "Add a meeting with HR on March 1st at 10 AM", "output": "action:add_event;title:meeting with HR;date:March 1st;time:10AM"}
+{"input": "Set a reminder to check email inbox at 7 AM tomorrow", "output": "action:set_reminder;title:check email inbox;date:tomorrow;time:7AM"}
+{"input": "Plan a coffee catch-up with John for next Monday at 3 PM", "output": "action:add_event;title:coffee with John;date:next Monday;time:3PM"}
+{"input": "Schedule a phone interview for next Thursday at 10 AM", "output": "action:add_event;title:phone interview;date:next Thursday;time:10AM"}
+{"input": "Set a reminder to call the bank at 9 AM tomorrow", "output": "action:set_reminder;title:call bank;date:tomorrow;time:9AM"}
+{"input": "Book a table at the restaurant for Saturday at 8 PM", "output": "action:add_event;title:restaurant reservation;date:Saturday;time:8PM"}
+{"input": "Plan a beach day for June 20th at 9 AM", "output": "action:add_event;title:beach day;date:June 20th;time:9AM"}
+{"input": "Set a reminder to cancel subscription at 12 PM tomorrow", "output": "action:set_reminder;title:cancel subscription;date:tomorrow;time:12PM"}
+{"input": "Add a family reunion for August 14th at 5 PM", "output": "action:add_event;title:family reunion;date:August 14th;time:5PM"}
+{"input": "Schedule a movie date for next Saturday at 7 PM", "output": "action:add_event;title:movie date;date:next Saturday;time:7PM"}
+{"input": "Plan a hiking trip for March 22nd at 8 AM", "output": "action:add_event;title:hiking trip;date:March 22nd;time:8AM"}
+{"input": "Set a reminder to check bank statement at 4 PM today", "output": "action:set_reminder;title:check bank statement;date:today;time:4PM"}
+{"input": "Book a personal training session for next Tuesday at 6 PM", "output": "action:add_event;title:personal training session;date:next Tuesday;time:6PM"}
+{"input": "Add a doctor's consultation for next Friday at 2 PM", "output": "action:add_event;title:doctor's consultation;date:next Friday;time:2PM"}
+{"input": "Set a reminder to change passwords at 11 AM tomorrow", "output": "action:set_reminder;title:change passwords;date:tomorrow;time:11AM"}
+{"input": "Plan a picnic at the park on May 25th at 1 PM", "output": "action:add_event;title:picnic at the park;date:May 25th;time:1PM"}
+{"input": "Schedule a conference call for next Wednesday at 3 PM", "output": "action:add_event;title:conference call;date:next Wednesday;time:3PM"}
+{"input": "Book a stay at a hotel for July 14th at 4 PM", "output": "action:add_event;title:hotel stay;date:July 14th;time:4PM"}
+{"input": "Add a celebration for the anniversary on December 15th at 7 PM", "output": "action:add_event;title:anniversary celebration;date:December 15th;time:7PM"}
+{"input": "Set a reminder to take medication at 9 AM tomorrow", "output": "action:set_reminder;title:take medication;date:tomorrow;time:9AM"}
+{"input": "Schedule a dentist visit for October 10th at 10 AM", "output": "action:add_event;title:dentist visit;date:October 10th;time:10AM"}
+{"input": "Book a spa session for June 25th at 12 PM", "output": "action:add_event;title:spa session;date:June 25th;time:12PM"}
+{"input": "Set a reminder to return phone call at 6 PM today", "output": "action:set_reminder;title:return phone call;date:today;time:6PM"}
+{"input": "Plan a weekend getaway for next month at 9 AM", "output": "action:add_event;title:weekend getaway;date:next month;time:9AM"}
+{"input": "Schedule a lunch meeting on March 17th at 1 PM", "output": "action:add_event;title:lunch meeting;date:March 17th;time:1PM"}
+{"input": "Add a road trip to the mountains on July 7th at 7 AM", "output": "action:add_event;title:road trip to the mountains;date:July 7th;time:7AM"}
+{"input": "Set a reminder to check the mail at 4 PM tomorrow", "output": "action:set_reminder;title:check mail;date:tomorrow;time:4PM"}
+{"input": "Plan a date night for next Sunday at 8 PM", "output": "action:add_event;title:date night;date:next Sunday;time:8PM"}
+{"input": "Schedule a project meeting on February 9th at 10 AM", "output": "action:add_event;title:project meeting;date:February 9th;time:10AM"}
+{"input": "Book a flight to Los Angeles on May 12th at 2 PM", "output": "action:add_event;title:flight to Los Angeles;date:May 12th;time:2PM"}
+{"input": "Add a weekend retreat for September 30th at 6 AM", "output": "action:add_event;title:weekend retreat;date:September 30th;time:6AM"}
+{"input": "Set a reminder to pick up laundry at 1 PM today", "output": "action:set_reminder;title:pick up laundry;date:today;time:1PM"}
+{"input": "Plan a workout session for next Wednesday at 6 AM", "output": "action:add_event;title:workout session;date:next Wednesday;time:6AM"}
+{"input": "Schedule a dentist cleaning on October 22nd at 3 PM", "output": "action:add_event;title:dentist cleaning;date:October 22nd;time:3PM"}
+{"input": "Book a meeting with a client on November 2nd at 4 PM", "output": "action:add_event;title:meeting with client;date:November 2nd;time:4PM"}
+{"input": "Set a reminder to review project at 2 PM tomorrow", "output": "action:set_reminder;title:review project;date:tomorrow;time:2PM"}
+{"input": "Plan a visit to the park for next Tuesday at 11 AM", "output": "action:add_event;title:visit to the park;date:next Tuesday;time:11AM"}
+{"input": "Set a reminder to call the plumber at 5 PM today", "output": "action:set_reminder;title:call plumber;date:today;time:5PM"}
+{"input": "Schedule a tech meetup on March 2nd at 7 PM", "output": "action:add_event;title:tech meetup;date:March 2nd;time:7PM"}
+{"input": "Add a presentation on April 30th at 3 PM", "output": "action:add_event;title:presentation;date:April 30th;time:3PM"}
+{"input": "Set a reminder to water the garden at 9 AM tomorrow", "output": "action:set_reminder;title:water garden;date:tomorrow;time:9AM"}
+{"input": "Book a vacation to Hawaii for August 20th at 10 AM", "output": "action:add_event;title:vacation to Hawaii;date:August 20th;time:10AM"}
+{"input": "Schedule a book club meeting on January 30th at 6 PM", "output": "action:add_event;title:book club meeting;date:January 30th;time:6PM"}
+{"input": "Add a business conference for May 18th at 8 AM", "output": "action:add_event;title:business conference;date:May 18th;time:8AM"}
+{"input": "Set a reminder to check the news at 7 AM tomorrow", "output": "action:set_reminder;title:check news;date:tomorrow;time:7AM"}
+{"input": "Plan a team outing for December 1st at 5 PM", "output": "action:add_event;title:team outing;date:December 1st;time:5PM"}
+{"input": "Schedule a dentist visit on March 25th at 11 AM", "output": "action:add_event;title:dentist visit;date:March 25th;time:11AM"}
